@@ -1,3 +1,5 @@
+#Script by Andrew Paladino, July 2021
+
 import arcpy
 import os
 import shutil
